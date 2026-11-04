@@ -1,0 +1,7 @@
+{
+  "name": "Bau-App-Demo",
+  "dockerComposeFile": ["../docker-compose.yml"],
+  "service": "app",
+  "workspaceFolder": "/workspaces/Bau-App-Demo",
+  "forwardPorts": [5432]
+}
